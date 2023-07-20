@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://images.app.goo.gl/YtT1os8naL6G7W7a9" height="200"/>
+<img src="image1.png" height="200"/>
 </p>
 <p align="center"> 
   Visitor count<br>
