@@ -4,7 +4,10 @@
 
 <img src="https://images.app.goo.gl/YtT1os8naL6G7W7a9" height="200"/>
 </p>
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Kponire/count.svg" />
+</p>
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
