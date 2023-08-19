@@ -86,17 +86,20 @@ alt="Kponire" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kponire&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Kponire" /></p>
     
-<p align="left"> <a href="https://twitter.com/PonireKuponiyi?s=09" target="blank"><img  src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="center"> 
   
 <a href="https://Kponire.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>
 
 <a href="https://www.linkedin.com/in/kuponiyi-oluwaponire-54a265249"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 
+<a href="https://twitter.com/PonireKuponiyi?s=09" target="blank"><img  src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter"></a> 
 
 <a href="kponire@gmail.com@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+</p>
+
 
 </p>
